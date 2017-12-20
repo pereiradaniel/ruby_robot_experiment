@@ -1,7 +1,7 @@
 # Ruby Robot Experiment
 ---
 
-Just creating a Ruby game experiment.
+Just an experiment that might grow into a small game.
 
 ---
 _*Daniel Paul Grech Pereira 2017*_
