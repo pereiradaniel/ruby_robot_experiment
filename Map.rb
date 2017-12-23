@@ -1,3 +1,7 @@
+# Map Class
+#
+# 	An instance of Map is created to place the robots.
+
 class Map
     attr_reader :x_axis
     attr_reader :y_axis

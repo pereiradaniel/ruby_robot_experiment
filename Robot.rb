@@ -1,3 +1,7 @@
+# Robot Class
+#
+#   An instant of Robot can be made, and associated with a map using map_id.
+
 class Robot
   def initialize(map_id, x_coord, y_coord)
     # map_id is the Object id of the Map instance that the Robot is located on.
