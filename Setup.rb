@@ -1,5 +1,3 @@
-map = Map.new(1)
-robo = Robot.new(1,25,25)
-
-map.draw
-robot.info
+# Load Classes
+	require './Map.rb'				# Map class
+	require './Robot.rb'			# Robot class
