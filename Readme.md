@@ -4,20 +4,21 @@
 ## INFO
 This is an experiment to use the Ruby language to build a small game.
 
+_File structure_
 Right now the classes are divided into different files, with setup being the file that currently loads the base classes into memory.
 
 ## FILES
 
-### Robot.rb
+_Robot.rb_
 Robot class file
 
-### Map.rb
+_Map.rb_
 Map class file
 
-### Setup.rb
+_Setup.rb_
 Loads Class files
 
-### tests.rb
+_tests.rb_
 Place commands here for testing data during development.
 
 ---
