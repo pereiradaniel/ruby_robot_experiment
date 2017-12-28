@@ -1,9 +1,8 @@
 # Ruby Robot Experiment
 ---
 
-
 ## INFO
-This is an experiment to use the Ruby language to build a small game.
+This is an experiment to use the Ruby language to build a small game.  The project's aim is to create a map and two objects that can move around, and launch projectiles at each other.
 
 _File structure_
 Right now the classes are divided into different files, with setup being the file that currently loads the base classes into memory.
@@ -22,6 +21,5 @@ Loads Class files
 
 _tests.rb_
 Place commands here for testing data during development.
-
 
 _*Daniel Paul Grech Pereira 2017*_
