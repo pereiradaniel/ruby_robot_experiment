@@ -1,6 +1,10 @@
 # Map Class
+#   An instance of Map is created to place the robots.
 #
-# 	An instance of Map is created to place the robots.
+# Variables
+#   id = an id number
+#   x_axis = x axis size
+#   y_axis = y axis size
 
 class Map
     attr_reader :x_axis
