@@ -12,16 +12,16 @@ Right now the classes are divided into different files, with setup being the fil
 
 ```
 _Robot.rb_
-Robot class file
+**Robot class file**
 
 _Map.rb_
-Map class file
+**Map class file**
 
 _Setup.rb_
-Loads Class files
+**Loads Class files**
 
 _tests.rb_
-Place commands here for testing data during development.
+**Place commands here for testing data during development.**
 ```
 
 _*Daniel Paul Grech Pereira 2017*_
