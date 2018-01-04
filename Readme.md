@@ -1,10 +1,10 @@
 # Ruby Robot Experiment
 ---
 
-## INFO
+## ABOUT
 This is an experiment to use the Ruby language to build a small game.  The project's aim is to create a map and two objects that can move around, and launch projectiles at each other.
 
-_File structure_
+File structure_
 Right now the classes are divided into different files, with setup being the file that currently loads the base classes into memory.
 
 
