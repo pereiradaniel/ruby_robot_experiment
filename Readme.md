@@ -4,7 +4,7 @@
 ## ABOUT
 This is an experiment to use the Ruby language to build a small game.  The project's aim is to create a map and two objects that can move around, and launch projectiles at each other.
 
-File structure_
+_File structure_
 Right now the classes are divided into different files, with setup being the file that currently loads the base classes into memory.
 
 
@@ -13,9 +13,11 @@ Right now the classes are divided into different files, with setup being the fil
 ```
 _Robot.rb_
 **Robot class file**
+Robots can be placed on a map.
 
 _Map.rb_
 **Map class file**
+Map can have robots on it.
 
 _Setup.rb_
 **Loads Class files**
