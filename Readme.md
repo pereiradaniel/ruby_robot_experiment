@@ -1,4 +1,4 @@
-# Ruby Robot Experiment
+# RUBY ROBOT EXPERIMENT
 ---
 
 ## ABOUT
